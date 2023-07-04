@@ -5,9 +5,9 @@
         "id": "apple",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/apple/ios-16.4.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/apple/ios-16.4.zip",
-        "file_size": 6451452,
+        "file_size": 15929433,
         "emoji_count": 3579,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "md5": "88820065ab7a1d047e309a25323e38260483b6f2a7cc85b313c377901c23f168"
     },
     {
         "name": "BlobMoji",
@@ -15,9 +15,9 @@
         "id": "blob",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/google/android-7.1.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/google/android-7.1.zip",
-        "file_size": 13008028,
+        "file_size": 10606078,
         "emoji_count": 2316,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "md5": "1edaf533af3e07642ff81cfe0bf6452cd418d6aedc66afbd472c73754ee21b1b"
     },
     {
         "name": "Facebook",
@@ -25,9 +25,9 @@
         "id": "facebook",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/facebook/15.3da55b027d96234a7b3ca08dbeae2c8f.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/facebook/15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
-        "file_size": 24044979,
+        "file_size": 24013597,
         "emoji_count": 3560,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "md5": "4fd66ec1d3e5996ad4aa449d7e5173d2f91bfe3eaf422d1b3c13962709e419d1"
     },
     {
         "name": "Fluent (by Microsoft)",
@@ -35,9 +35,9 @@
         "id": "fluent",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/microsoft-teams.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/microsoft-teams.zip",
-        "file_size": 17987170,
-        "emoji_count": 3065,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "file_size": 17234567,
+        "emoji_count": 3096,
+        "md5": "ddd63e5c6d1bb35942631dd8c5ff8ae59e19c02f2ea72ac35652000a1cbad4b6"
     },
     {
         "name": "Google",
@@ -45,9 +45,9 @@
         "id": "google",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/google/android-7.1.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/google/15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
-        "file_size": 18483761,
+        "file_size": 18464800,
         "emoji_count": 3569,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "md5": "60b11749f46d0bd62fe602210e490232b518c42cab1dd4eaabe9574ab3c00474"
     },
     {
         "name": "JoyPixels",
@@ -55,9 +55,9 @@
         "id": "joypixels",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/joypixels/7.3da55b027d96234a7b3ca08dbeae2c8f.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/joypixels/7.3da55b027d96234a7b3ca08dbeae2c8f.zip",
-        "file_size": 19079494,
+        "file_size": 19020941,
         "emoji_count": 3538,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "md5": "39df340ecacd54579ccf23b31c99f82d72b576eafd318739a4686ec92f185187"
     },
     {
         "name": "Microsoft",
@@ -65,9 +65,9 @@
         "id": "microsoft",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/microsoft/windows-11-22H2.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/microsoft/windows-11-22H2.zip",
-        "file_size": 15129425,
-        "emoji_count": 3289,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "file_size": 14747227,
+        "emoji_count": 3287,
+        "md5": "aaa58f2a5fcc7c527a74b23fd12de0f915d4fbfeba2c7fa176dbd164795e7d60"
     },
     {
         "name": "OpenMoji",
@@ -75,9 +75,9 @@
         "id": "openmoji",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/openmoji/14.3da55b027d96234a7b3ca08dbeae2c8f.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/openmoji/14.3da55b027d96234a7b3ca08dbeae2c8f.zip",
-        "file_size": 17084394,
+        "file_size": 17025841,
         "emoji_count": 3538,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "md5": "8bc5059ad30cec5d77f6951246fad86322b6e449eff84947acd30170fb94fb61"
     },
     {
         "name": "OneUI",
@@ -85,9 +85,9 @@
         "id": "samsung",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/samsung/one-ui-5.3da55b027d96234a7b3ca08dbeae2c8f.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/samsung/one-ui-5.3da55b027d96234a7b3ca08dbeae2c8f.zip",
-        "file_size": 23061819,
+        "file_size": 22876188,
         "emoji_count": 3497,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "md5": "f745f71a758ac38594259bda019b4022a0e97175e6cd2518789095ba066e57e7"
     },
     {
         "name": "Twitter",
@@ -95,9 +95,9 @@
         "id": "twitter",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/twitter/twemoji-15.3da55b027d96234a7b3ca08dbeae2c8f.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/twitter/twemoji-15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
-        "file_size": 16340911,
-        "emoji_count": 3507,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "file_size": 16647538,
+        "emoji_count": 3569,
+        "md5": "d7e5714dab4031b9c2f4b665592ec295bf25a4db22882bdaca493b007a13f014"
     },
     {
         "name": "WhatsApp",
@@ -105,8 +105,8 @@
         "id": "whatsapp",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/whatsapp/2.23.2.72.png",
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/whatsapp/2.23.2.72.zip",
-        "file_size": 19260039,
-        "emoji_count": 3109,
-        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
+        "file_size": 21626561,
+        "emoji_count": 3573,
+        "md5": "85cefbbd4d79eb41f843cf0367f3d3645b7d64481f4070dd1a02669fee411043"
     }
 ]
