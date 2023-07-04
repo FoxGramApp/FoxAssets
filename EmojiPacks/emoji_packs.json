@@ -1,6 +1,6 @@
 [
     {
-        "name": "Default (Apple)",
+        "name": "Apple",
         "version": 15,
         "id": "apple",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/apple/ios-16.4.png",
@@ -23,8 +23,8 @@
         "name": "Facebook",
         "version": 15,
         "id": "facebook",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/facebook/15.3da55b027d96234a7b3ca08dbeae2c8f.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/facebook/15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/facebook/15.0.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/facebook/15.0.zip",
         "file_size": 24013597,
         "emoji_count": 3560,
         "md5": "4fd66ec1d3e5996ad4aa449d7e5173d2f91bfe3eaf422d1b3c13962709e419d1"
@@ -44,7 +44,7 @@
         "version": 15,
         "id": "google",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/google/android-7.1.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/google/15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/google/android-7.1.zip",
         "file_size": 18464800,
         "emoji_count": 3569,
         "md5": "60b11749f46d0bd62fe602210e490232b518c42cab1dd4eaabe9574ab3c00474"
@@ -53,8 +53,8 @@
         "name": "JoyPixels",
         "version": 14,
         "id": "joypixels",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/joypixels/7.3da55b027d96234a7b3ca08dbeae2c8f.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/joypixels/7.3da55b027d96234a7b3ca08dbeae2c8f.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/joypixels/7.0.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/joypixels/7.0.zip",
         "file_size": 19020941,
         "emoji_count": 3538,
         "md5": "39df340ecacd54579ccf23b31c99f82d72b576eafd318739a4686ec92f185187"
@@ -73,8 +73,8 @@
         "name": "OpenMoji",
         "version": 14,
         "id": "openmoji",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/openmoji/14.3da55b027d96234a7b3ca08dbeae2c8f.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/openmoji/14.3da55b027d96234a7b3ca08dbeae2c8f.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/openmoji/14.0.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/openmoji/14.0.zip",
         "file_size": 17025841,
         "emoji_count": 3538,
         "md5": "8bc5059ad30cec5d77f6951246fad86322b6e449eff84947acd30170fb94fb61"
@@ -83,8 +83,8 @@
         "name": "OneUI",
         "version": 15,
         "id": "samsung",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/samsung/one-ui-5.3da55b027d96234a7b3ca08dbeae2c8f.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/samsung/one-ui-5.3da55b027d96234a7b3ca08dbeae2c8f.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/samsung/one-ui-5.0.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/samsung/one-ui-5.0.zip",
         "file_size": 22876188,
         "emoji_count": 3497,
         "md5": "f745f71a758ac38594259bda019b4022a0e97175e6cd2518789095ba066e57e7"
@@ -93,8 +93,8 @@
         "name": "Twitter",
         "version": 14,
         "id": "twitter",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/twitter/twemoji-15.3da55b027d96234a7b3ca08dbeae2c8f.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/twitter/twemoji-15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/twitter/twemoji-15.0.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/twitter/twemoji-15.0.zip",
         "file_size": 16647538,
         "emoji_count": 3569,
         "md5": "d7e5714dab4031b9c2f4b665592ec295bf25a4db22882bdaca493b007a13f014"
