@@ -7,7 +7,7 @@
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/apple/ios-16.4.zip",
         "file_size": 6451452,
         "emoji_count": 3579,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "BlobMoji",
@@ -17,17 +17,17 @@
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/google/android-7.1.zip",
         "file_size": 13008028,
         "emoji_count": 2316,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "Facebook",
         "version": 15,
         "id": "facebook",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/facebook/15.0.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/facebook/15.0.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/facebook/15.3da55b027d96234a7b3ca08dbeae2c8f.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/facebook/15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
         "file_size": 24044979,
         "emoji_count": 3560,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "Fluent (by Microsoft)",
@@ -37,27 +37,27 @@
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/microsoft-teams.zip",
         "file_size": 17987170,
         "emoji_count": 3065,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "Google",
         "version": 15,
         "id": "google",
         "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/google/android-7.1.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/google/15.0.zip",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/google/15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
         "file_size": 18483761,
         "emoji_count": 3569,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "JoyPixels",
         "version": 14,
         "id": "joypixels",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/joypixels/7.0.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/joypixels/7.0.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/joypixels/7.3da55b027d96234a7b3ca08dbeae2c8f.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/joypixels/7.3da55b027d96234a7b3ca08dbeae2c8f.zip",
         "file_size": 19079494,
         "emoji_count": 3538,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "Microsoft",
@@ -67,37 +67,37 @@
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/microsoft/windows-11-22H2.zip",
         "file_size": 15129425,
         "emoji_count": 3289,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "OpenMoji",
         "version": 14,
         "id": "openmoji",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/openmoji/14.0.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/openmoji/14.0.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/openmoji/14.3da55b027d96234a7b3ca08dbeae2c8f.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/openmoji/14.3da55b027d96234a7b3ca08dbeae2c8f.zip",
         "file_size": 17084394,
         "emoji_count": 3538,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "OneUI",
         "version": 15,
         "id": "samsung",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/samsung/one-ui-5.0.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/samsung/one-ui-5.0.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/samsung/one-ui-5.3da55b027d96234a7b3ca08dbeae2c8f.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/samsung/one-ui-5.3da55b027d96234a7b3ca08dbeae2c8f.zip",
         "file_size": 23061819,
         "emoji_count": 3497,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "Twitter",
         "version": 14,
         "id": "twitter",
-        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/twitter/twemoji-15.0.png",
-        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/twitter/twemoji-15.0.zip",
+        "preview": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/previews/twitter/twemoji-15.3da55b027d96234a7b3ca08dbeae2c8f.png",
+        "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/twitter/twemoji-15.3da55b027d96234a7b3ca08dbeae2c8f.zip",
         "file_size": 16340911,
         "emoji_count": 3507,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     },
     {
         "name": "WhatsApp",
@@ -107,6 +107,6 @@
         "file": "https://raw.githubusercontent.com/Pierlu096/colorgramserver/main/EmojiPacks/packs/whatsapp/2.23.2.72.zip",
         "file_size": 19260039,
         "emoji_count": 3109,
-        "md5": "0"
+        "md5": "3da55b027d96234a7b3ca08dbeae2c8f"
     }
 ]
