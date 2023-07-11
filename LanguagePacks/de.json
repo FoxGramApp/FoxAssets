@@ -368,5 +368,7 @@
     "ChangeIcon": "Change App Icon",
     "ChangeIconDesc": "Since on Android 12 the monet icon was forced and you upgraded to Android 13, you need to change the app icon to the default one for a better support.",
     "AppCrashed": "Something went wrong",
-    "AppCrashedDesc": "Colorgram has stopped working. Please, send logs to the developers so that they can fix this bug as soon as possible."
+    "AppCrashedDesc": "Colorgram has stopped working. Please, send logs to the developers so that they can fix this bug as soon as possible.",
+    "DeleteAccount": "Delete Account",
+    "TitleBarName": "Title Text"
 }

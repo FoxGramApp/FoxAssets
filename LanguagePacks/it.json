@@ -366,5 +366,7 @@
     "ChangeIconDesc": "Poiché su Android 12 l\\'icona monet è forzata e hai aggiornato ad Android 13 è necessario cambiare l\\'icona dell\\'app con quella predefinita per un supporto migliore.",
     "AccountNameTitleBar": "Nome account",
     "AppCrashed": "Qualcosa è andato storto",
-    "AppCrashedDesc": "Colorgram ha smesso di funzionare. Per favore invia i log agli sviluppatori in modo da poter correggere questo bug il prima possibile."
+    "AppCrashedDesc": "Colorgram ha smesso di funzionare. Per favore invia i log agli sviluppatori in modo da poter correggere questo bug il prima possibile.",
+    "DeleteAccount": "Elimina Account",
+    "TitleBarName": "Testo del titolo"
 }

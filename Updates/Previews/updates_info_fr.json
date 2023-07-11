@@ -1,6 +1,6 @@
 {
-    "title" : "Update to v2.9.0 Beta 1",
+    "title" : "Update to v2.9.0 Beta 2",
     "description" : "Customizable wallpapers, shared folders and more",
-    "changelog" : "Colorgram was updated to version 2.9.0 Beta 1. What's new:\n• Hide Channel Bottom Button\n• Optional Quick Reactions\n• New Camera Section: Disable/Enable Camera and Camera Preview in attachments\n• Show Icon to Manage Items on Sidebar\n• Smooth Navigation: Smooth transitions among app sections\n• View Accounts Registration date\n• Bug fixes and other improvements",
+    "changelog" : "Colorgram was updated to version 2.9.0 Beta 2. What's new?\n• Show username on title bar\n• Delete account\n\n• Fixed incorrect app restart popup\n• Fixed missing info sections in groups\n• Fixed blocked channels after click any button\n• Fixed in-message translator not working\n• Fixed folder icons not showing\n• Fixed folders crash\n• Fixed Quick Reaction working in scheduled messages",
     "note" : "thank u thank u next"
 }
