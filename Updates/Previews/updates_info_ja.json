@@ -1,6 +1,6 @@
 {
-    "title" : "Update to v2.9.0 Beta 2",
+    "title" : "Update to v2.9.0 Beta 2.1",
     "description" : "Customizable wallpapers, shared folders and more",
-    "changelog" : "Colorgram was updated to version 2.9.0 Beta 2. What's new?\n• Show username on title bar\n• Delete account\n\n• Fixed incorrect app restart popup\n• Fixed missing info sections in groups\n• Fixed blocked channels after click any button\n• Fixed in-message translator not working\n• Fixed folder icons not showing\n• Fixed folders crash\n• Fixed Quick Reaction working in scheduled messages",
+    "changelog" : "Colorgram was updated to version 2.9.0 Beta 2.1. What's new?\n• Bug fixes and minor improvements",
     "note" : "thank u thank u next"
 }
