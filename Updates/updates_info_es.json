@@ -1,6 +1,6 @@
 {
-    "title" : "Update to v2.9.0",
-    "description" : "Customizable wallpapers, shared folders and more",
-    "changelog" : "Colorgram was updated to version 2.9.0. What's new?\n• Hide Channel Bottom Button\n• Optional Quick Reactions\n• New Camera Section: Disable/Enable Camera and Camera Preview in attachments\n• Show Icon to Manage Items on Sidebar\n• Smooth Navigation: Smooth transitions among app sections\n• View Accounts Registration date\n• Bug fixes and other improvements",
+    "title" : "Update to version 2.9.0",
+    "description" : "Shareable Folders, Custom Wallpapers and More",
+    "changelog": "🎨Colorgram was updated to v2.9.0 (3430)\n\n💡Telegram Changes\n• Shareable Chat Folders\n• Custom Wallpapers\n• Improved Bots\n• Quick Scroll for Attachments\n• Read Time in Topics\n• Improved Interface\n\n✨Colorgram Changes\n• Registration Date\n• Smooth Navigation\n• Settings page refactor\n• Hide Channel Bottom Button\n• Optional Quick Reactions\n• Disable in-app Camera\n• Disable Camera Preview in Attachments\n• Manage Items icon in Sidebar\n• New Sidebar Items: Folders and Stickers\n• Predictive Back Support (Android 13+)\n• Username on Chat Title\n• Delete Account\n\nFor all new Telegram feature read the blog https://telegram.org/blog/shareable-folders-custom-wallpapers",      
     "note" : "thank u thank u next"
 }

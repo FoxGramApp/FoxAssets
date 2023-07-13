@@ -1,6 +1,6 @@
 {
-    "title" : "Aggiornamento alla v2.9.0",
-    "description" : "Sfondi personalizzati, cartelle condivise e altro",
-    "changelog" : "Colorgram è stato aggiornato alla versione 2.9.0. Cosa c'è di nuovo:\n• Nascondi il bottone in basso nei canali\n• Reazioni rapide facoltative\n• Nuova sezione Camera: Attiva/Disattiva la fotocamera o nascondila dagli allegati\n• Mostra l'icona per gestire gli elementi nella barra laterale\n• Navigazione fluida: Transizioni fluide tra le sezioni\n• Mostra la data di registrazione degli account\n• Correzioni di bug e miglioramenti minori",
+    "title" : "Aggiornamento alla versione 2.9.0",
+    "description" : "Cartelle condivise, sfondi personalizzati e altro",
+    "changelog": "🎨Colorgram è stato aggiornato alla versione 2.9.0 (3430)\n\n💡Novità da Telegram\n• Cartelle condivise\n• Sfondi personalizzabili\n• Bot migliorati\n• Scorrimento veloce negli allegati\n• Tempo di lettura nei topic\n• Interfaccia migliorata\n\n✨Novità da Colorgram\n• Data di registrazione\n• Navigazione fluida\n• Pagina impostazioni ridisegnata\n• Nascondi il bottone in basso nei canali\n• Reazioni rapide opzionali\n• Disattiva la fotocamera in tutta l'app\n• Disattiva l'anteprima della fotocamera negli allegati\n• Icona gestisci gli elementi nel menu laterale\n• Nuovi elementi del menu: Cartelle e Sticker\n• Supporto all'indietro predittivo (Android 13+)\n• Username come titolo della chat\n• Elimina account\n\nPer tutte le funzioni di Telegram leggi il blog https://telegram.org/blog/shareable-folders-custom-wallpapers",
     "note" : "thank u thank u next"
 }
