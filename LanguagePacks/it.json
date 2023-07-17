@@ -368,5 +368,6 @@
     "AppCrashed": "Qualcosa è andato storto",
     "AppCrashedDesc": "FoxGram ha smesso di funzionare. Per favore invia i log agli sviluppatori in modo da poter correggere questo bug il prima possibile.",
     "DeleteAccount": "Elimina account",
-    "TitleBarName": "Testo del titolo"
+    "TitleBarName": "Testo del titolo",
+    "AppIconGalaxy": "Galassia"
 }
