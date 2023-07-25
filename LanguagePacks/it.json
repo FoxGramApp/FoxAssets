@@ -369,5 +369,18 @@
     "AppCrashedDesc": "FoxGram ha smesso di funzionare. Per favore invia i log agli sviluppatori in modo da poter correggere questo bug il prima possibile.",
     "DeleteAccount": "Elimina account",
     "TitleBarName": "Testo del titolo",
-    "AppIconGalaxy": "Galassia"
+    "AppIconGalaxy": "Galassia",
+    "TabsCounter": "Contatore dei messaggi non letti",
+    "UpdatesInfoSettings": "Ultimo aggiornamento",
+    "InstalledVersion": "Versione installata",
+    "BaseVersionUpdated": "Versione base",
+    "BuildType": "Tipo di build",
+    "BuildVersion": "Build installata",
+    "UpdateType": "Versione del canale",
+    "DownloadSource": "Sorgente di download",
+    "ReleaseDate": "Data di rilascio",
+    "MissingStoriesTitle": "Attualmente non hai storie. Il titolo della chat è stato ripristinato a default.",
+    "DoubleTap": "Azione al doppio tocco",
+    "DoubleTapDesc": "Tocca due volte su un messaggio per eseguire un azione.",
+    "DoubleTapDesc2": "Personalizza il doppio tocco per adattarlo al tuo uso di FoxGram."
 }

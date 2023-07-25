@@ -371,5 +371,18 @@
     "AppCrashedDesc": "FoxGram has stopped working. Please, send logs to the developers so that they can fix this bug as soon as possible.",
     "DeleteAccount": "Delete Account",
     "TitleBarName": "Title Text",
-    "AppIconGalaxy": "Galaxy"
+    "AppIconGalaxy": "Galaxy",
+    "TabsCounter": "Unread Counter",
+    "UpdatesInfoSettings": "Last Update",
+    "InstalledVersion": "Installed Version",
+    "BaseVersionUpdated": "Base Version",
+    "BuildType": "Build Type",
+    "BuildVersion": "Installed Build",
+    "UpdateType": "Version Channel",
+    "DownloadSource": "Download Source",
+    "ReleaseDate": "Release Date",
+    "MissingStoriesTitle": "You currently don\\'t have Stories. Chat Title have been restored to default.",
+    "DoubleTap": "Double Tap Action",
+    "DoubleTapDesc": "Tap two once on a message to do an action.",
+    "DoubleTapDesc2": "Customize the Double Tap to adapt your use of FoxGram."
 }
