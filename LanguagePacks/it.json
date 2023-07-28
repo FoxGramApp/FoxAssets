@@ -180,7 +180,7 @@
     "HideTimeOnSticker": "Nascondi l\\'orario sugli sticker",
     "OnlineStatus": "Mostra lo stato online",
     "InstallPreview": "Cambia canale aggiornamenti",
-    "InstallPreviewDesc": "Prova i nuovi aggiornamenti di FoxGram prima del loro rilascio ufficiale",
+    "InstallPreviewDesc": "Prova i nuovi aggiornamenti di FoxGram prima del loro rilascio ufficiale.",
     "AutoUpdate": "Popup aggiornamenti",
     "AutoUpdatePrompt": "Mostra un popup quando è disponibile un aggiornamento",
     "APKsChannel": "Canale aggiornamenti",
@@ -382,5 +382,7 @@
     "MissingStoriesTitle": "Attualmente non hai storie. Il titolo della chat è stato ripristinato a default.",
     "DoubleTap": "Azione al doppio tocco",
     "DoubleTapDesc": "Tocca due volte su un messaggio per eseguire un azione.",
-    "DoubleTapDesc2": "Personalizza il doppio tocco per adattarlo al tuo uso di FoxGram."
+    "DoubleTapDesc2": "Personalizza il doppio tocco per adattarlo al tuo uso di FoxGram.",
+    "StoriesCameraOff": "La fotocamera è disabilitata dalle impostazioni di FoxGram",
+    "UpdatesChannelInfo": "Le funzioni incluse nelle versioni Preview possono scomparire in qualsiasi momento o contenere bug."
 }
