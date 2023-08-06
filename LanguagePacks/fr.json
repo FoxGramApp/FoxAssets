@@ -378,7 +378,7 @@
     "BaseVersionUpdated": "Base Version",
     "BuildType": "Build Type",
     "BuildVersion": "Installed Build",
-    "UpdateType": "Version Channel",
+    "UpdateType": "Channel Version",
     "DownloadSource": "Download Source",
     "ReleaseDate": "Release Date",
     "MissingStoriesTitle": "You currently don\\'t have Stories. Chat Title have been restored to default.",
@@ -386,5 +386,10 @@
     "DoubleTapDesc": "Tap two once on a message to do an action.",
     "DoubleTapDesc2": "Customize the Double Tap to adapt your use of FoxGram.",
     "StoriesCameraOff": "Camera is disabled from FoxGram\\'s Settings.",
-    "UpdatesChannelInfo": "Features included in Preview versions may disappear at any time or contain bugs."
+    "UpdatesChannelInfo": "Features included in Preview versions may disappear at any time or contain bugs.",
+    "OfficialChannelDesc": "Stay informed of news on",
+    "RegistrationDate": "%s Registered on %s",
+    "CopyDate": "Copy Date",
+    "Blur": "In-Chat Blur",
+    "BlurChatIntensity": "Chat Blur Intensity"
 }
