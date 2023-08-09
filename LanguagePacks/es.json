@@ -391,5 +391,7 @@
     "RegistrationDate": "%s Registered on %s",
     "CopyDate": "Copy Date",
     "Blur": "In-Chat Blur",
-    "BlurChatIntensity": "Chat Blur Intensity"
+    "BlurChatIntensity": "Chat Blur Intensity",
+    "ShowSecretIcons": "Show Secret Icons",
+    "HideSecretIcons": "Hide Secret Icons"
 }

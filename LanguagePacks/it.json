@@ -389,5 +389,7 @@
     "RegistrationDate": "%s Registrato il %s",
     "CopyDate": "Copia data",
     "Blur": "Sfocatura nella chat",
-    "BlurChatIntensity": "Intensità sfocatura nella chat"
+    "BlurChatIntensity": "Intensità sfocatura nella chat",
+    "ShowSecretIcons": "Mostra icone segrete",
+    "HideSecretIcons": "Nascondi icone segrete"
 }
