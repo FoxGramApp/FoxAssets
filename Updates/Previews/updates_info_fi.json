@@ -1,6 +1,6 @@
 {
-    "title" : "Update to version 3.0.0 Beta 4",
-    "description" : "Bug Fixes, Improvements and More",
-    "changelog": "🦊<b>FoxGram was updated to v3.0.0 Beta 4 (3464)</b>\n\n💡<b>What's new?</b>\n• Bug fixes and other improvements",      
+    "title" : "Update to version 3.0.0",
+    "description" : "Stories, Bio Privacy and More",
+    "changelog": "🦊<b>FoxGram was updated to v3.0.0 (3465)</b>\n\n💡<b>Telegram Changes</b>\n• Stories (Preview)\n• Bio Privacy\n• Archive Settings\n\n🦊<b>FoxGram Changes</b>\n• Double Tap Actions\n• Customize Chat Blur\n• Hide Messages Unread Counter in Folders",      
     "note" : "I want it, I got it, I want it, I got it"
 }
