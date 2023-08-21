@@ -1,6 +1,6 @@
 {
-    "title" : "Update to version 3.0.0",
-    "description" : "Stories, Bio Privacy and More",
-    "changelog": "🦊<b>FoxGram was updated to v3.0.0 (3465)</b>\n\n💡<b>Telegram Changes</b>\n• Stories (Preview)\n• Bio Privacy\n• Archive Settings\n\n🦊<b>FoxGram Changes</b>\n• Double Tap Actions\n• Customize Chat Blur\n• Hide Messages Unread Counter in Folders",      
+    "title" : "Update to version 3.0.5",
+    "description" : "Stories and 10 years of Telegram",
+    "changelog": "🦊<b>FoxGram was updated to v3.0.5 (3471)</b>\n\n💡<b>Telegram Changes</b>\n• Stories for everyone\n• Add location in Stories\n• Improved Stories editing\n• Improved privacy options\n\n✨<b>Telegram Premium</b>\n• Custom Stories expiration\n• Stealth Mode\n• Add Links and Markdown\n• Priority order\n• Save Stories to Gallery\n• Longer captions\n\n<i>For all new Telegram features read the blog Custom Stories expiration https://telegram.org/blog/stories</i>",      
     "note" : "I want it, I got it, I want it, I got it"
 }
