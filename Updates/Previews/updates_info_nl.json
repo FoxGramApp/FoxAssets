@@ -10,9 +10,9 @@
     "arm64-v8a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/arm64-v8a.apk",
     "x86_64": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/x86_64.apk",
     "universal": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/universal.apk",
-    "size_arm-v7a": 42948057,
-    "size_x86": 44378186,
-    "size_arm64-v8a": 43178239,
-    "size_x86_64": 44260658,
-    "size_universal": 73943094
+    "size_arm-v7a": 42952997,
+    "size_x86": 44383132,
+    "size_arm64-v8a": 43183185,
+    "size_x86_64": 44265606,
+    "size_universal": 73948055
 }
