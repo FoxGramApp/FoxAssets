@@ -1,9 +1,9 @@
 {
     "title" : "Update to version 3.1.0",
     "description" : "Stories in Channels, View-Once Media and More",
-    "changelog": "🦊<b>FoxGram was updated to v3.1.0 Beta 1 (3485)</b>\n\n💡<b>What's new?</b>\n• Updated source code to 10.1",      
+    "changelog": "🦊<b>FoxGram was updated to v3.1.0 Beta 2 (3490)</b>\n\n💡<b>What's new?</b>\n• Updated source code to 10.1.1\n• Bug fixes and minor improvements",      
     "note" : "Switchin' the position for you",
-    "build_number": 3485,
+    "build_number": 3490,
     "banner": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/color_update.png",
     "arm-v7a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/arm-v7a.apk",
     "x86": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/x86.apk",
