@@ -1,18 +1,18 @@
 {
-    "title": "Aggiornamento alla versione 3.0.7",
-    "description": "Storie e 10 anni di Telegram",
-    "changelog": "🦊<b>FoxGram è stato aggiornato alla versione 3.0.7 (3475)</b>\n\n💡<b>Cosa c'è di nuovo?</b>\n• In questa versione puoi dire addio ad alcuni bug e piccoli miglioramenti ad alcuni aspetti dell'app",
-    "note": "I want it, I got it, I want it, I got it",
-    "build_number": 3475,
+    "title" : "Aggiornamento alla versione 3.1.0",
+    "description" : "Risposte 2.0, anteprime dei link personalizzabili, Colori nei nomi, Giveaway e altro",
+    "changelog": "🦊<b>FoxGram è stato aggiornato alla versione 3.1.0 (3510)</b>\n\n💡<b>Novità di Telegram</b>\n• Potenziamenti per i canali⚡️\n• Rivoluzione delle risposte \n• Anteprime dei link personalizzabili\n• Impostazioni per risposte, inoltro e link \n• Miglioramenti alle storie\n\n<b>✨Telegram Premium</b>\n• Colore dell'account personalizzato\n\n⚡️Potenziamenti per i canali\n\n• Giveaways\n• Colore del nome del canale personalizzabile\n• Storie\n\n<i>Per maggiori informazioni leggi l'ultimo blog https://telegram.org/blog/reply-revolution?ln=it</i>",      
+    "note" : "Switchin' the position for you",
+    "build_number": 3510,
     "banner": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/color_update.png",
     "arm-v7a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/arm-v7a.apk",
     "x86": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/x86.apk",
     "arm64-v8a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/arm64-v8a.apk",
     "x86_64": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/x86_64.apk",
     "universal": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/universal.apk",
-    "size_arm-v7a": 42626463,
-    "size_x86": 44066770,
-    "size_arm64-v8a": 42858893,
-    "size_x86_64": 43950419,
-    "size_univesal": 73505504
+    "size_arm-v7a": 42941990,
+    "size_x86": 44375649,
+    "size_arm64-v8a": 43174753,
+    "size_x86_64": 44256149,
+    "size_universal": 73953469
 }
