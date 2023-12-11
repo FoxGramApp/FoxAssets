@@ -1,18 +1,18 @@
 {
-    "title" : "Aggiornamento alla versione 3.1.0",
-    "description" : "Risposte 2.0, anteprime dei link personalizzabili, Colori nei nomi, Giveaway e altro",
-    "changelog": "🦊<b>FoxGram è stato aggiornato alla versione 3.1.0 (3510)</b>\n\n💡<b>Novità di Telegram</b>\n• Potenziamenti per i canali⚡️\n• Rivoluzione delle risposte \n• Anteprime dei link personalizzabili\n• Impostazioni per risposte, inoltro e link \n• Miglioramenti alle storie\n\n<b>✨Telegram Premium</b>\n• Colore dell'account personalizzato\n\n⚡️Potenziamenti per i canali\n\n• Giveaways\n• Colore del nome del canale personalizzabile\n• Storie\n\n<i>Per maggiori informazioni leggi l'ultimo blog https://telegram.org/blog/reply-revolution?ln=it</i>",      
-    "note" : "Switchin' the position for you",
-    "build_number": 3510,
+    "title" : "Aggiornamento alla versione 3.2.0",
+    "description" : "Canali simili, ripubblicazione delle storie e altre 9 funzioni",
+    "changelog": "🦊<b>FoxGram è stato aggiornato alla versione 3.2.0 (3515)</b>\n\n💡<b>Novità di Telegram</b>\n• Canali simili\n• Ripubblicazione delle storie \n• Videomessaggi nelle storie\n• Trascrizione per tutti\n• Evidenziazione del codice\n\n<b>✨Telegram Premium</b>\n• Colore del profilo personalizzabile\n• Sfondo per entrambi i lati\n⚡️Channel Boosts\n\n• Reazioni personalizzate\n\n<i>Per maggiori dettagli leggi il blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+    "build_number": 3515,
     "banner": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/color_update.png",
     "arm-v7a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/arm-v7a.apk",
     "x86": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/x86.apk",
     "arm64-v8a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/arm64-v8a.apk",
     "x86_64": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/x86_64.apk",
     "universal": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/APKs/universal.apk",
-    "size_arm-v7a": 42941990,
-    "size_x86": 44375649,
-    "size_arm64-v8a": 43174753,
-    "size_x86_64": 44256149,
-    "size_universal": 73953469
+    "size_arm-v7a": 43149876,
+    "size_x86": 44583689,
+    "size_arm64-v8a": 43382600,
+    "size_x86_64": 44463840,
+    "size_universal": 74161520
 }

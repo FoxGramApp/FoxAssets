@@ -1,18 +1,18 @@
 {
-    "title" : "Update to version 3.1.0",
-    "description" : "Replies 2.0, Adjustable Link Previews, Name Colors, Giveaways and More",
-    "changelog": "🦊<b>FoxGram was updated to v3.1.0 (3510)</b>\n\n💡<b>Telegram Changes</b>\n• Channel Boosts⚡️\n• Reply Revolution \n• Adjustable Link Previews\n• Reply, Forwarding and Link Settings\n• Stories improvements\n\n<b>✨Telegram Premium</b>\n• Custom Account Colors\n\n⚡️Channel Boosts\n\n• Giveaways\n• Custom Channel Colors\n• Stories\n\n<i>For more details read the latest blog https://telegram.org/blog/reply-revolution?ln=r</i>",      
-    "note" : "Switchin' the position for you",
-    "build_number": 3510,
+    "title" : "Update to version 3.2.0",
+    "description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+    "build_number": 3515,
     "banner": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/color_update.png",
     "arm-v7a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/arm-v7a.apk",
     "x86": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/x86.apk",
     "arm64-v8a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/arm64-v8a.apk",
     "x86_64": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/x86_64.apk",
     "universal": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Previews/APKs/universal.apk",
-    "size_arm-v7a": 42941990,
-    "size_x86": 44375649,
-    "size_arm64-v8a": 43174753,
-    "size_x86_64": 44256149,
-    "size_universal": 73953469
+    "size_arm-v7a": 43149876,
+    "size_x86": 44583689,
+    "size_arm64-v8a": 43382600,
+    "size_x86_64": 44463840,
+    "size_universal": 74161520
 }
