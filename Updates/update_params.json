@@ -1,0 +1,150 @@
+{
+    "skip_beta_check": true,
+    "build_number": 3515,
+
+    "stable-size_arm-v7a": 43149876,
+    "stable-size_x86": 44583689,
+    "stable-size_arm64-v8a": 43382600,
+    "stable-size_x86_64": 44463840,
+    "stable-size_universal": 74161520,
+
+    "beta-size_arm-v7a": 43149876,
+    "beta-size_x86": 44583689,
+    "beta-size_arm64-v8a": 43382600,
+    "beta-size_x86_64": 44463840,
+    "beta-size_universal": 74161520,
+
+    "stable-banner": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/fox_stable_banner.png",
+    "stable-arm-v7a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates//Resources/APKs/arm-v7a.apk",
+    "stable-x86": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/APKs/x86.apk",
+    "stable-arm64-v8a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/APKs/arm64-v8a.apk",
+    "stable-x86_64": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/APKs/x86_64.apk",
+    "stable-universal": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/APKs/universal.apk",
+
+    "beta-banner": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/fox_beta_banner.png",
+    "beta-arm-v7a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/Beta-APKs/arm-v7a.apk",
+    "beta-x86": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/Beta-APKs/x86.apk",
+    "beta-arm64-v8a": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/Beta-APKs/arm64-v8a.apk",
+    "beta-x86_64": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/Beta-APKs/x86_64.apk",
+    "beta-universal": "https://raw.githubusercontent.com/FoxGramApp/FoxAssets/main/Updates/Resources/Beta-APKs/universal.apk",
+
+    "en-stable-title" : "Update to version 3.2.0",
+    "en-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "en-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "en-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "it-stable-title" : "Aggiornamento alla versione 3.2.0",
+    "it-stable-description" : "Canali simili, ripubblicazione delle storie e altre 9 funzioni",
+    "it-stable-changelog": "🦊<b>FoxGram è stato aggiornato alla versione 3.2.0 (3515)</b>\n\n💡<b>Novità di Telegram</b>\n• Canali simili\n• Ripubblicazione delle storie \n• Videomessaggi nelle storie\n• Trascrizione per tutti\n• Evidenziazione del codice\n\n<b>✨Telegram Premium</b>\n• Colore del profilo personalizzabile\n• Sfondo per entrambi i lati\n⚡️Channel Boosts\n\n• Reazioni personalizzate\n\n<i>Per maggiori dettagli leggi il blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "it-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ar-stable-title" : "Update to version 3.2.0",
+    "ar-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ar-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ar-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ca-stable-title" : "Update to version 3.2.0",
+    "ca-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ca-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ca-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "es-stable-title" : "Update to version 3.2.0",
+    "es-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "es-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "es-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "fi-stable-title" : "Update to version 3.2.0",
+    "fi-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "fi-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "fi-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "fr-stable-title" : "Update to version 3.2.0",
+    "fr-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "fr-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "fr-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "id-stable-title" : "Update to version 3.2.0",
+    "id-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "id-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "id-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ja-stable-title" : "Update to version 3.2.0",
+    "ja-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ja-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ja-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ko-stable-title" : "Update to version 3.2.0",
+    "ko-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ko-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ko-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "nl-stable-title" : "Update to version 3.2.0",
+    "nl-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "nl-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "nl-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "pl-stable-title" : "Update to version 3.2.0",
+    "pl-stable-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "pl-stable-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "pl-stable-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "en-beta-title" : "Update to version 3.2.0",
+    "en-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "en-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "en-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "it-beta-title" : "Aggiornamento alla versione 3.2.0",
+    "it-beta-description" : "Canali simili, ripubblicazione delle storie e altre 9 funzioni",
+    "it-beta-changelog": "🦊<b>FoxGram è stato aggiornato alla versione 3.2.0 (3515)</b>\n\n💡<b>Novità di Telegram</b>\n• Canali simili\n• Ripubblicazione delle storie \n• Videomessaggi nelle storie\n• Trascrizione per tutti\n• Evidenziazione del codice\n\n<b>✨Telegram Premium</b>\n• Colore del profilo personalizzabile\n• Sfondo per entrambi i lati\n⚡️Channel Boosts\n\n• Reazioni personalizzate\n\n<i>Per maggiori dettagli leggi il blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "it-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ar-beta-title" : "Update to version 3.2.0",
+    "ar-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ar-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ar-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ca-beta-title" : "Update to version 3.2.0",
+    "ca-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ca-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ca-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "es-beta-title" : "Update to version 3.2.0",
+    "es-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "es-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "es-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "fi-beta-title" : "Update to version 3.2.0",
+    "fi-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "fi-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "fi-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "fr-beta-title" : "Update to version 3.2.0",
+    "fr-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "fr-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "fr-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "id-beta-title" : "Update to version 3.2.0",
+    "id-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "id-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "id-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ja-beta-title" : "Update to version 3.2.0",
+    "ja-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ja-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ja-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "ko-beta-title" : "Update to version 3.2.0",
+    "ko-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "ko-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "ko-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "nl-beta-title" : "Update to version 3.2.0",
+    "nl-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "nl-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "nl-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini",
+
+    "pl-beta-title" : "Update to version 3.2.0",
+    "pl-beta-description" : "Similar Channels, Reposting Stories, and 9 More Features",
+    "pl-beta-changelog": "🦊<b>FoxGram was updated to v3.2.0 (3515)</b>\n\n💡<b>Telegram Changes</b>\n• Similar Channels\n• Reposting Stories \n• Video messages on Stories\n• Voice-To-Text for Everyone\n• Code highlighting\n\n<b>✨Telegram Premium</b>\n• Custom Profile Color\n• Wallpapers for both sides\n⚡️Channel Boosts\n\n• Custom Reactions\n\n<i>For more details read the latest blog https://telegram.org/blog/similar-channels?ln=r</i>",      
+    "pl-beta-note" : "Then say I come and I go\nTell me all the ways you need me\nI'm not here for long\nCatch me or I go Houdini"
+}
