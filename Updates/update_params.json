@@ -1,6 +1,7 @@
 {
     "skip_beta_check": true,
-    "build_number": 3515,
+    "stable-build_number": 3515,
+    "beta-build-number": 3515,
 
     "stable-size_arm-v7a": 43149876,
     "stable-size_x86": 44583689,
